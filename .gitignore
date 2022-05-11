@@ -1,0 +1,7 @@
+resmed_certificate.pem
+.env
+*.sqlite3
+.vscode
+__pycache__
+.pytest_cache
+/*.png
